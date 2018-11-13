@@ -1,6 +1,6 @@
 #' Compute all the carbon chem rate constants
 #'
-#' @param temp
+#' @param temp temperature of sample
 #' @param sal
 #'
 #' @return
